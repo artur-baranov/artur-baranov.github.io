@@ -1,19 +1,28 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Artur Baranov"
+  favicon: images/fav.png
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+    right: 
+      - icon: at
+        href: mailto:aabaranov@internet.ru
 
 format:
   html:
-    theme: cosmo
+    theme:
+      light: flatly
+      dark: darkly
+    mainfont: roboto
     css: styles.css
     toc: true
+    
+
 
 
 
