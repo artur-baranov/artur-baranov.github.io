@@ -11,7 +11,7 @@ website:
       - href: index.qmd
         text: Home
       - href: scraping_p1.qmd
-        text: Scraping Tutorial
+        text: Scraping
     right: 
       - icon: at
         href: mailto:aabaranov@internet.ru
