@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     e-mail\n  \n\n  \n  \n\n\nCurriculum vitae"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nUniversity College Dublin | Dublin, Ireland\nM.Sc. in Politics & Data Science | 2023\nHigher School of Economics | Saint-Petersburg, Russia\nB.Sc. in Political Science & World Politics | 2022"
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "About",
+    "section": "Experience",
+    "text": "Experience\nAccounts Chamber of Russia | Intern | March – April 2022"
+  },
+  {
+    "objectID": "scraping.html",
+    "href": "scraping.html",
+    "title": "Scraping Tutorial",
+    "section": "",
+    "text": "1 2"
+  },
+  {
+    "objectID": "scraping_p1.html",
+    "href": "scraping_p1.html",
+    "title": "Scraping Tutorial",
+    "section": "",
+    "text": "ID\nParty\nAge\nIncome\nEducation Level\n\n\n\n\n1\nDemocrat\n37\n$48,000\nSome College\n\n\n2\nRepublican\n52\n$84,000\nBachelor’s Degree\n\n\n3\nIndependent\n29\n$26,000\nHigh School Diploma\n\n\n4\nDemocrat\n45\n$72,000\nMaster’s Degree\n\n\n5\nRepublican\n33\n$60,000\nSome College\n\n\n6\nIndependent\n26\n$30,000\nSome College\n\n\n7\nDemocrat\n62\n$120,000\nDoctorate Degree\n\n\n8\nRepublican\n39\n$90,000\nBachelor’s Degree\n\n\n9\nIndependent\n30\n$35,000\nHigh School Diploma\n\n\n10\nDemocrat\n50\n$100,000\nMaster’s Degree\n\n\n\n\n\n\n\n1 2 3"
+  }
+]
