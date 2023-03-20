@@ -6,9 +6,12 @@ website:
   title: "Artur Baranov"
   favicon: images/fav.png
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
+      - href: scraping_p1.qmd
+        text: Scraping Tutorial
     right: 
       - icon: at
         href: mailto:aabaranov@internet.ru
