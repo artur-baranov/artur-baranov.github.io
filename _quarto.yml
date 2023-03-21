@@ -10,8 +10,6 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: scraping_p1.qmd
-        text: Scraping Tutorial
     right: 
       - icon: at
         href: mailto:aabaranov@internet.ru
