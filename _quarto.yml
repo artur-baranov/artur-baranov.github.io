@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Artur Baranov"
-  favicon: images/fav.png
+  favicon: docs/images/fav.png
   navbar:
     pinned: true
     left:
