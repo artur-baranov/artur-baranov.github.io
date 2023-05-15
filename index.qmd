@@ -1,0 +1,44 @@
+---
+title: "About"
+image: "images/profile.jpg"
+about:
+  id: postcard
+  template: trestles
+  image-shape: round
+  image-width: 10em
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: "https://linkedin.com/"
+    - icon: github
+      text: GitHub
+      href: "https://github.com/"
+    - icon: at
+      text: e-mail
+      href: "mailto:aabaranov@internet.ru"
+---
+
+:::{#postcard}
+
+## Bio
+
+<a class="btn btn-primary" href="CV_abaranov.pdf">Curriculum vitae</a>
+
+:::
+
+## Education
+
+**University College Dublin** | Dublin, Ireland
+
+M.Sc. in Politics & Data Science | 2023
+
+**Higher School of Economics** | Saint-Petersburg, Russia
+
+B.Sc. in Political Science & World Politics | 2022
+
+## Experience
+
+**Accounts Chamber of Russia** | Intern | March -- April 2022
+
+
+
