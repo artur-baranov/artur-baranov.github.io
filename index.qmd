@@ -20,7 +20,7 @@ about:
 
 :::{#postcard}
 
-## Bio
+## Artur Baranov
 
 <a class="btn btn-primary" href="CV_abaranov.pdf">Curriculum vitae</a>
 
