@@ -1,9 +1,9 @@
 ---
-title: "About"
+title: "Artur Baranov"
 image: "images/profile.jpg"
 about:
   id: postcard
-  template: trestles
+  template: jolla
   image-shape: round
   image-width: 10em
   links:
@@ -15,30 +15,13 @@ about:
       href: "https://github.com/artur-baranov"
     - icon: at
       text: e-mail
-      href: "mailto:aabaranov@internet.ru"
+      href: "mailto:artur.baranov@u.northwestern.edu"
 ---
 
-:::{#postcard}
+::: {#postcard style="text-align: justify"}
+I am a PhD Student at the Department of Political Science, Northwestern University. My field is Comparative Politics, with focus on Comparative Authoritarianism. My research toolkit includes quantitative and data science methods.
 
-## Artur Baranov
+Prior joining Northwestern, I studied Political Science at University College Dublin (Ireland), Tor Vergata University of Rome (Italy) and Higher School of Economics (Russia). Previously, I have worked at Accounts Chamber of the Russian Federation as transparency auditor.
 
-<a class="btn btn-primary" href="CV_abaranov.pdf">Curriculum vitae</a>
-
+<center><a class="btn btn-primary" href="CV_abaranov.pdf">Curriculum vitae</a></center> 
 :::
-
-## Education
-
-**University College Dublin** | Dublin, Ireland
-
-M.Sc. in Politics & Data Science | 2023
-
-**Higher School of Economics** | Saint-Petersburg, Russia
-
-B.Sc. in Political Science & World Politics | 2022
-
-## Experience
-
-**Accounts Chamber of Russia** | Intern | March -- April 2022
-
-
-
