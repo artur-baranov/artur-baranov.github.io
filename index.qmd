@@ -1,6 +1,10 @@
 ---
 title: "Artur Baranov"
 image: "images/profile.jpg"
+format: 
+  html:
+    page-layout: article
+    css: styles.css
 about:
   id: postcard
   template: jolla
@@ -18,10 +22,10 @@ about:
       href: "mailto:artur.baranov@u.northwestern.edu"
 ---
 
-::: {#postcard style="text-align: justify"}
-I am a PhD Student at the Department of Political Science, Northwestern University. My field is Comparative Politics, with focus on Comparative Authoritarianism. My research toolkit includes quantitative and data science methods.
+::: {#postcard style="text-align: justify;"}
+I am a PhD Student at the Department of Political Science, Northwestern University. My field is Comparative Politics, with a focus on Comparative Authoritarianism. My research toolkit includes quantitative and data science methods.
 
-Prior joining Northwestern, I studied Political Science at University College Dublin (Ireland), Tor Vergata University of Rome (Italy) and Higher School of Economics (Russia). Previously, I have worked at Accounts Chamber of the Russian Federation as transparency auditor.
+Prior to joining Northwestern,  I studied Political Science at University College Dublin in Ireland, Tor Vergata University of Rome in Italy, and the Higher School of Economics in Russia. Previously, I worked at the Accounts Chamber of the Russian Federation as a transparency auditor.
 
-<center><a class="btn btn-primary" href="CV_abaranov.pdf">Curriculum vitae</a></center> 
+<center><a class="btn btn-primary" href="CV_abaranov.pdf">Curriculum vitae</a></center>
 :::
