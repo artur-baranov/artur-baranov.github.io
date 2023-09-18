@@ -18,6 +18,9 @@ website:
     right: 
       - icon: at
         href: mailto:artur.baranov@u.northwestern.edu
+  page-footer:
+    right: 'Created with [{{< fa brands github  >}}](https://github.com){target="_blank"}, [{{< fa brands r-project  >}}](https://posit.co){target="_blank"} and [Quarto](https://quarto.org/)'
+
 
 format:
   html:
