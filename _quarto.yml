@@ -5,11 +5,14 @@ project:
 website:
   title: "Artur Baranov"
   favicon: images/fav.png
+  google-analytics: "G-E5CQ2V5CKY"
   navbar:
     pinned: true
     left:
       - href: index.qmd
         text: Home
+      - href: projects.qmd
+        text: Projects
       - href: CV_abaranov.pdf
         text: CV
     right: 

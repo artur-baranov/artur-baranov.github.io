@@ -5,5 +5,19 @@
     "title": "Artur Baranov",
     "section": "",
     "text": "I am a PhD Student at the Department of Political Science, Northwestern University. My field is Comparative Politics, with a focus on Comparative Authoritarianism. My research toolkit includes quantitative and data science methods.\nPrior to joining Northwestern, I studied Political Science at University College Dublin in Ireland, Tor Vergata University of Rome in Italy, and the Higher School of Economics in Russia. Previously, I worked at the Accounts Chamber of the Russian Federation as a transparency auditor.\n\nCurriculum vitae\n\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     e-mail"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Irish Demographic Poll Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects-listing/irish-dem-poll.html",
+    "href": "projects-listing/irish-dem-poll.html",
+    "title": "Irish Demographic Poll Dashboard",
+    "section": "",
+    "text": "In this project I have developed an interactive Shiny Dashboard for the Irish Demographic Polling Datasets. The Datasets collect aggregated results on vote intentions, satisfaction with the government, and popularity of party leaders.\nUsing R, I have developed the following functionality:\n\nDataset selection\nVariables subset\nPlot customization\nDownload options\n\n\nIrish Demographic Polling Dashboard"
   }
 ]

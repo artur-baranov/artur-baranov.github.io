@@ -1,0 +1,29 @@
+---
+title: "Irish Demographic Poll Dashboard"
+format: html
+engine: knitr
+---
+
+```{css, echo = FALSE}
+.justify {
+  text-align: justify !important
+}
+```
+
+::: {.justify}
+
+In this project I have developed an interactive Shiny Dashboard for the [Irish Demographic Polling Datasets](https://github.com/Irish-Dem-Polling/datasets). The Datasets collect aggregated results on vote intentions, satisfaction with the government, and popularity of party leaders.
+
+Using R, I have developed the following functionality:
+
+-   Dataset selection
+-   Variables subset
+-   Plot customization
+-   Download options
+
+<center><a class="btn btn-primary" href="https://irishdempolling.shinyapps.io/dashboard/" target="_blank">Irish Demographic Polling Dashboard</a></center>
+
+:::
+
+
+<center>[![](irish-dem-poll-ui.png){width="300"} ![](irish-dem-poll.png){width="300"}](https://irishdempolling.shinyapps.io/dashboard/){target="_blank"}</center>
