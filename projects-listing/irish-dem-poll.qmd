@@ -10,20 +10,23 @@ engine: knitr
 }
 ```
 
-::: {.justify}
+::: justify
+In this project, I have created an interactive Shiny Dashboard to explore and analyze [Irish Demographic Polling Datasets](https://github.com/Irish-Dem-Polling/datasets), maintained by a team of [Dr. Stefan Müller](https://muellerstefan.net). These datasets contain aggregated information about vote intentions, satisfaction with the government, and the popularity of party leaders in Ireland. The Shiny Dashboard, built using R, offers users a seamless and user-friendly interface to perform various tasks related to dataset exploration and visualization.
 
-In this project I have developed an interactive Shiny Dashboard for the [Irish Demographic Polling Datasets](https://github.com/Irish-Dem-Polling/datasets). The Datasets collect aggregated results on vote intentions, satisfaction with the government, and popularity of party leaders.
-
-Using R, I have developed the following functionality:
+Key Functionalities:
 
 -   Dataset selection
+    -   Users can choose from a list of available Irish Demographic Polling Datasets
 -   Variables subset
+    -   Once a dataset is selected, users can specify which variables or columns they want to analyze
+    -   The dashboard provides options to subset and filter data based on specific criteria, such as date ranges or demographic groups
 -   Plot customization
+    -   Users can create interactive visualizations based on the selected variables
 -   Download options
+    -   Users can download the customized plots and filtered datasets for further analysis or reporting
+    -   Supported download formats include PNG, PDF, CSV, and Excel, allowing flexibility in exporting results
 
-<center><a class="btn btn-primary" href="https://irishdempolling.shinyapps.io/dashboard/" target="_blank">Irish Demographic Polling Dashboard</a></center>
-
+<center><a class="btn btn-primary" href="https://irishdempolling.shinyapps.io/dashboard/" target="_blank">Explore Irish Demographic Polling Dashboard</a></center>
 :::
-
-
-<center>[![](irish-dem-poll-ui.png){width="300"} ![](irish-dem-poll.png){width="300"}](https://irishdempolling.shinyapps.io/dashboard/){target="_blank"}</center>
+<br>
+<center>[![](images/irish-dem-poll-ui.png){width="300"} ![](images/irish-dem-poll.png){width="300"}](https://irishdempolling.shinyapps.io/dashboard/){target="_blank"}</center>

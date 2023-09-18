@@ -18,6 +18,13 @@
     "href": "projects-listing/irish-dem-poll.html",
     "title": "Irish Demographic Poll Dashboard",
     "section": "",
-    "text": "In this project I have developed an interactive Shiny Dashboard for the Irish Demographic Polling Datasets. The Datasets collect aggregated results on vote intentions, satisfaction with the government, and popularity of party leaders.\nUsing R, I have developed the following functionality:\n\nDataset selection\nVariables subset\nPlot customization\nDownload options\n\n\nIrish Demographic Polling Dashboard"
+    "text": "In this project, I have created an interactive Shiny Dashboard to explore and analyze Irish Demographic Polling Datasets, maintained by a team of Dr. Stefan Müller. These datasets contain aggregated information about vote intentions, satisfaction with the government, and the popularity of party leaders in Ireland. The Shiny Dashboard, built using R, offers users a seamless and user-friendly interface to perform various tasks related to dataset exploration and visualization.\nKey Functionalities:\n\nDataset selection\n\nUsers can choose from a list of available Irish Demographic Polling Datasets\n\nVariables subset\n\nOnce a dataset is selected, users can specify which variables or columns they want to analyze\nThe dashboard provides options to subset and filter data based on specific criteria, such as date ranges or demographic groups\n\nPlot customization\n\nUsers can create interactive visualizations based on the selected variables\n\nDownload options\n\nUsers can download the customized plots and filtered datasets for further analysis or reporting\nSupported download formats include PNG, PDF, CSV, and Excel, allowing flexibility in exporting results\n\n\n\nExplore Irish Demographic Polling Dashboard"
+  },
+  {
+    "objectID": "projects-listing/test.html",
+    "href": "projects-listing/test.html",
+    "title": "Old Faithful",
+    "section": "",
+    "text": "Data on eruptions of the Old Faithful geyser in Yellowstone National Park, Wyoming, USA. The data was collected continuously from August 1st until August 15th, 1985.\n\n\n\nNumber of bins:\n\n\n\n\n\n\n\nThe data consists of 299 pairs of measurements, referring to the time interval between the starts of successive eruptions and the duration of the subsequent eruption.\nClick the Code button above to see the source code for this example."
   }
 ]
