@@ -10,12 +10,14 @@ website:
     pinned: true
     left:
       - href: index.qmd
-        text: Home
+        text: "{{< fa home  >}} About"
       - href: projects.qmd
-        text: Projects
+        text: "{{< fa book  >}} Projects"
       - href: CV_abaranov.pdf
-        text: CV
-    right: 
+        text: "{{< fa file >}} CV"
+      - href: contacts.qmd
+        text: "{{< fa address-book >}} Contacts"
+    right:
       - icon: at
         href: mailto:artur.baranov@u.northwestern.edu
   page-footer:
