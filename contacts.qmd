@@ -8,6 +8,15 @@ I am always available for discussions, so feel free to reach out to me via:
 
 <center>{{< fa at >}} artur.baranov \[at\] u.northwestern.edu</center>
 <br>
+<center>
+<div class="btn-group-vertical">
+  <a class="btn btn-outline-primary" href="https://www.linkedin.com/in/aa-baranov/" target="_blank">{{< fa brands linkedin >}} LinkedIn</a>
+  <a class="btn btn-outline-primary" href="https://github.com/artur-baranov" target="_blank">{{< fa brands github >}} GitHub</a>
+  <a class="btn btn-outline-primary" href="https://twitter.com/aa_baranov/" target="_blank">{{< fa brands twitter >}} Twitter</a>
+</div>
+</center>
+
+<br>
 Alternatively, you can schedule a Zoom meeting with me:
 ```{=html}
 <!-- Calendly inline widget begin -->

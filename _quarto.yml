@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Artur Baranov"
+  title: "{{< fa user-graduate >}} <b>Artur Baranov</b>"
   favicon: images/fav.png
   google-analytics: "G-E5CQ2V5CKY"
   navbar:
