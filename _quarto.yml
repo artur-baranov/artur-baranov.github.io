@@ -8,6 +8,7 @@ website:
   google-analytics: "G-E5CQ2V5CKY"
   navbar:
     pinned: true
+    search: false
     left:
       - href: index.qmd
         text: "{{< fa home  >}} About"
