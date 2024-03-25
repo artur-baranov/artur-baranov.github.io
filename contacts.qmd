@@ -17,7 +17,7 @@ I am always available for discussions, so feel free to reach out to me via:
 </center>
 
 <br>
-Alternatively, you can schedule a Zoom meeting with me:
+Alternatively, you can schedule a meeting with me:
 ```{=html}
 <!-- Calendly inline widget begin -->
 <div class="calendly-inline-widget" data-url="https://calendly.com/artur-baranov/" style="min-width:320px;height:700px;"></div>
