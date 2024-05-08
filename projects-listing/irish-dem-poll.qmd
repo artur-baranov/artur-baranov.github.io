@@ -13,7 +13,7 @@ engine: knitr
 ::: justify
 In this project, I have created an interactive Shiny Dashboard to explore and analyze [Irish Demographic Polling Datasets](https://github.com/Irish-Dem-Polling/datasets), maintained by a team of [Dr. Stefan Müller](https://muellerstefan.net). These datasets contain aggregated information about vote intentions, satisfaction with the government, and the popularity of party leaders in Ireland. The Shiny Dashboard, built using R, offers users a seamless and user-friendly interface to perform various tasks related to dataset exploration and visualization.
 
-Key Functionalities:
+Key functionality:
 
 -   Dataset selection
     -   Users can choose from a list of available Irish Demographic Polling Datasets
