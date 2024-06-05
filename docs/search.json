@@ -11,7 +11,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Irish Demographic Poll Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Irish Demographic Poll Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrish Manifesto Explorer Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects-listing/irish-dem-poll.html",
@@ -33,5 +33,12 @@
     "title": "Contacts",
     "section": "",
     "text": "I am always available for discussions, so feel free to reach out to me via:\n\n artur.baranov [at] u.northwestern.edu\n\n\n\n\n LinkedIn  GitHub  Twitter\n\n\n Alternatively, you can schedule a meeting with me:"
+  },
+  {
+    "objectID": "projects-listing/irish-manifesto-explorer.html",
+    "href": "projects-listing/irish-manifesto-explorer.html",
+    "title": "Irish Manifesto Explorer Dashboard",
+    "section": "",
+    "text": "In this project, I contributed to an interactive Shiny Dashboard to explore and analyze Irish Political Manifestos, maintained by a team of Dr. Stefan Müller.\nThe Manifesto Explorer Dashboard offers a comprehensive view of party manifestos for local and European Parliament elections in Ireland since 1999. Users can delve into the manifestos, compare different parties, and observe changes over time. By clicking on a party manifesto title, you can read the full document. The dashboard also features a search function to look up specific terms and examine their frequency and context within the manifestos.\n\nExplore Irish Manifesto Explorer Dashboard"
   }
 ]
