@@ -4,6 +4,8 @@ format: html
 editor: source
 ---
 
+Download the script from here:
+
 ## Basics of R and RStudio
 
 - R language and RStudio shell
