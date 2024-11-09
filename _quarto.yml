@@ -1,9 +1,13 @@
 project:
   type: website
   output-dir: docs
+  render: 
+    - "*.qmd"
+    - "!docs/data/*.qmd"
+    - "!data/*.qmd"
 
 website:
-  title: "{{< fa user-graduate >}} <b>Artur Baranov</b>"
+  title: "<b>Artur Baranov</b>"
   favicon: images/fav.png
   google-analytics: "G-E5CQ2V5CKY"
   navbar:
@@ -12,6 +16,8 @@ website:
     left:
       - href: index.qmd
         text: "{{< fa home  >}} About"
+      - href: teaching.qmd
+        text: "{{< fa pencil  >}} Teaching"
       - href: projects.qmd
         text: "{{< fa book  >}} Projects"
       - href: CV_abaranov.pdf
@@ -34,6 +40,8 @@ format:
     mainfont: roboto
     css: styles.css
     toc: true
+    
+    
     
 
 

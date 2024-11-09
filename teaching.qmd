@@ -1,0 +1,10 @@
+---
+title: "Teaching"
+---
+
+```{r}
+#| include: false
+library(googlesheets4)
+library(dplyr)
+```
+
