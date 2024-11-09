@@ -16,8 +16,8 @@ website:
     left:
       - href: index.qmd
         text: "{{< fa home  >}} About"
-      - href: teaching.qmd
-        text: "{{< fa pencil  >}} Teaching"
+      #- href: teaching.qmd
+      #  text: "{{< fa pencil  >}} Teaching"
       - href: projects.qmd
         text: "{{< fa book  >}} Projects"
       - href: CV_abaranov.pdf
