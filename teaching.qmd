@@ -1,5 +1,34 @@
 ---
 title: "Teaching"
+<<<<<<< Updated upstream
+=======
+<<<<<<< HEAD
+listing:
+  - id: current
+    include: 
+      type: "current"
+    contents: teaching.yaml
+    type: table
+    fields: [Status, title, Term, Level, Links]
+    filter-ui: false
+    sort: "date"
+    sort-ui: false
+  # - id: previous
+  #   include: 
+  #     type: "previous"
+  #   contents: teaching.yaml
+  #   type: table
+  #   fields: [title, Term, Institution, Links]
+  #   filter-ui: false
+  #   sort: "date desc"
+  #   sort-ui: false
+toc: false    
+---
+
+:::{#current}
+:::
+=======
+>>>>>>> Stashed changes
 ---
 
 ```{r}
@@ -7,4 +36,8 @@ title: "Teaching"
 library(googlesheets4)
 library(dplyr)
 ```
+<<<<<<< Updated upstream
+=======
+>>>>>>> c758d504c1042605c94cb753de1fa1c98799b171
+>>>>>>> Stashed changes
 
