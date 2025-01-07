@@ -1,8 +1,5 @@
 ---
 title: "Teaching"
-<<<<<<< Updated upstream
-=======
-<<<<<<< HEAD
 listing:
   - id: current
     include: 
@@ -27,17 +24,4 @@ toc: false
 
 :::{#current}
 :::
-=======
->>>>>>> Stashed changes
----
-
-```{r}
-#| include: false
-library(googlesheets4)
-library(dplyr)
-```
-<<<<<<< Updated upstream
-=======
->>>>>>> c758d504c1042605c94cb753de1fa1c98799b171
->>>>>>> Stashed changes
 
