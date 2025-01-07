@@ -4,5 +4,5 @@
   Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
   Term: "2025 Winter"
   Institution: "Northwestern University"
-  Links: "[{{< fa link >}}](artur-baranov.github.io/nu-ps405-ds)"
+  Links: "[{{< fa link >}}](https://artur-baranov.github.io/nu-ps405-ds)"
   type: "current"
