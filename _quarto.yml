@@ -23,7 +23,7 @@ website:
       - href: contacts.qmd
         text: "{{< fa address-book >}} Contacts"
       - href: teaching.qmd
-        text: "{{< fa pencil  >}} Teaching"
+        text: "{{< fa file-pen >}} Teaching"
     right:
       - icon: at
         href: mailto:artur.baranov@u.northwestern.edu
