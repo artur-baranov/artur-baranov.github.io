@@ -1,5 +1,5 @@
 ---
-pagetitle: "{{< meta title >}}"
+title-prefix: "{{< meta title >}}"
 title: "Artur Baranov"
 image: "images/profile.jpg"
 format: 
