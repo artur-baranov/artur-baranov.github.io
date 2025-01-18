@@ -1,5 +1,5 @@
 - title: 'Linear Models'
-  Status: '<button type="button" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
+  Status: '<button type="button" title="Teaching currently" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
   date: 2025-01-01
   Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
   Term: "2025 Winter"

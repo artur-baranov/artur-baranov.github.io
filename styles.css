@@ -12,12 +12,12 @@ body:not(.floating) .nav-footer {
   display: inline-block; /* Make it look like a button */
   text-align: center; /* Center text */
   border: none; /* Remove borders */
-  pointer-events: none; /* Make the button unclickable */
-  cursor: default; /* Change the cursor to indicate it's inactive */
+  pointer-events: none;
 }
 
 .btn-green:hover {
   background-color: #4fb043; /* Prevent color change on hover */
+  color: white;
 }
 
 .btn-grey {
@@ -26,10 +26,9 @@ body:not(.floating) .nav-footer {
   display: inline-block; /* Make it look like a button */
   text-align: center; /* Center text */
   border: none; /* Remove borders */
-  pointer-events: none; /* Make the button unclickable */
-  cursor: default; /* Change the cursor to indicate it's inactive */
 }
 
 .btn-grey:hover {
   background-color: #D3D3D3; /* Prevent color change on hover */
+  color: white;
 }
