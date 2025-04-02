@@ -8,7 +8,7 @@ listing:
     type: table
     fields: [Status, title, Term, Level, Links]
     filter-ui: false
-    sort: "date"
+    sort: "date desc"
     sort-ui: false
   # - id: previous
   #   include: 
