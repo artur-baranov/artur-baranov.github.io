@@ -3291,7 +3291,7 @@ window.Quarto = {
 <p>Milan Svolik did not classify political regimes, however here we try to come up with an easy computational technique to compensate for this.</p>
 <section id="data-preparation" class="level2">
 <h2 class="anchored" data-anchor-id="data-preparation">Data Preparation</h2>
-<p>The code below loads the required libraries and the dataset.</p>
+<p>For the transparency I include code. The chunk below loads the required libraries and the dataset.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -3309,7 +3309,7 @@ window.Quarto = {
 <span id="cb1-12"><a href="#cb1-12" aria-hidden="true" tabindex="-1"></a>svolik <span class="ot">=</span> <span class="fu">read.csv</span>(<span class="st">&quot;institutions in dictatorships, 1946-2008.csv&quot;</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 </details>
 </div>
-<p>The code below processes the data to be able to use it for the cluster analysis. We specify that missing data should be labeled “missing” due to limitations of the cluster method we are using here. The example of the processed is dataset below.</p>
+<p>Here I process the data. For example, I specify that missing data should be labeled “missing” due to limitations of the cluster method we are using here. The example of the processed is dataset below.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -3435,7 +3435,7 @@ window.Quarto = {
 </section>
 <section id="cluster-analysis" class="level2">
 <h2 class="anchored" data-anchor-id="cluster-analysis">Cluster Analysis</h2>
-<p>The code below uses <span class="math inline">\(k = 3\)</span> to produce the graph. Overall, we see that 3 clusters are able to capture the variation in Svolik’s data. Overall, it means that qualitatively it would make sense to create categories for exatly three types of political regimes.</p>
+<p>Overall, we see that 3 clusters are able to capture the variation in Svolik’s data. In other words, qualitatively it would make sense to create categories for exatly three types of political regimes.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
@@ -3780,7 +3780,7 @@ window.Quarto = {
 </section>
 <section id="executive-selection" class="level3">
 <h3 class="anchored" data-anchor-id="executive-selection">Executive Selection</h3>
-<p>The same is true for executive selection. For example, first cluster with banned parties does not elect their executives in <span class="math inline">\(\approx 92%\)</span> of cases.</p>
+<p>The same is true for executive selection. For example, first cluster with banned parties does not elect their executives in <span class="math inline">\(\approx 92\%\)</span> of cases.</p>
 <div class="cell">
 <details class="code-fold">
 <summary>Code</summary>
