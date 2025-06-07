@@ -1,5 +1,5 @@
 - title: 'Statistical Research Methods'
-  Status: '<button type="button" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
+  Status: '<button type="button" class="btn btn-grey btn-sm">{{< fa calendar-days >}}</button>'
   date: 2025-04-01
   Level: '<button type="button" class="btn btn-primary btn-sm"><b>UG</b></button>'
   Term: "2025 Spring"
