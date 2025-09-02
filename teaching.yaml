@@ -1,3 +1,12 @@
+- title: 'Math Camp'
+  Status: '<button type="button" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
+  date: 2025-08-01
+  Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
+  Term: "2025 Summer"
+  Institution: "Northwestern University"
+  Links: "[{{< fa link >}}](https://gustavodiaz.org/NUmathcamp)"
+  type: "current"
+
 - title: 'Statistical Research Methods'
   Status: '<button type="button" class="btn btn-grey btn-sm">{{< fa calendar-days >}}</button>'
   date: 2025-04-01
@@ -16,3 +25,11 @@
   Links: "[{{< fa link >}}](https://artur-baranov.github.io/nu-ps405-ds)"
   type: "current"
   
+- title: 'Math Camp'
+  Status: '<button type="button" class="btn btn-grey btn-sm">{{< fa calendar-days >}}</button>'
+  date: 2024-08-01
+  Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
+  Term: "2025 Summer"
+  Institution: "Northwestern University"
+  Links: "[{{< fa link >}}](https://gustavodiaz.org/NUmathcamp)"
+  type: "current"
