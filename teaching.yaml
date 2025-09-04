@@ -2,7 +2,7 @@
   Status: '<button type="button" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
   date: 2025-09-01
   Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
-  Term: '2025 Fall <i class="fa fa-info-circle text-muted" data-bs-toggle="tooltip" style="float:right;" title="Previously, Fall 2024"></i>'
+  Term: '2025 Fall <i class="fa fa-arrow-rotate-left text-muted" data-bs-toggle="tooltip" style="float:right;" title="Previously, Fall 2024"></i>'
   Institution: "Northwestern University"
   Links: ""
   type: "current"
@@ -11,7 +11,7 @@
   Status: '<button type="button" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
   date: 2025-08-01
   Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
-  Term: '2025 Summer <i class="fa fa-info-circle text-muted" data-bs-toggle="tooltip" style="float:right;" title="Previously, Summer 2024"></i>'
+  Term: '2025 Summer <i class="fa fa-arrow-rotate-left text-muted" data-bs-toggle="tooltip" style="float:right;" title="Previously, Summer 2024"></i>'
   Institution: "Northwestern University"
   Links: "[{{< fa link >}}](https://gustavodiaz.org/NUmathcamp)"
   type: "current"
