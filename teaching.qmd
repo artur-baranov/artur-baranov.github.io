@@ -7,6 +7,9 @@ listing:
     contents: teaching.yaml
     type: table
     fields: [Status, title, Term, Level, Links]
+    field-display-names: 
+      Term: "Last Offered"
+      title: "Class"
     filter-ui: false
     sort: "date desc"
     sort-ui: false

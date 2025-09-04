@@ -1,8 +1,17 @@
+- title: 'Probability and Statistics'
+  Status: '<button type="button" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
+  date: 2025-09-01
+  Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
+  Term: '2025 Fall <i class="fa fa-info-circle text-muted" data-bs-toggle="tooltip" style="float:right;" title="Previously, Fall 2024"></i>'
+  Institution: "Northwestern University"
+  Links: ""
+  type: "current"
+
 - title: 'Math Camp'
   Status: '<button type="button" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
   date: 2025-08-01
   Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
-  Term: "2025 Summer"
+  Term: '2025 Summer <i class="fa fa-info-circle text-muted" data-bs-toggle="tooltip" style="float:right;" title="Previously, Summer 2024"></i>'
   Institution: "Northwestern University"
   Links: "[{{< fa link >}}](https://gustavodiaz.org/NUmathcamp)"
   type: "current"
@@ -23,13 +32,4 @@
   Term: "2025 Winter"
   Institution: "Northwestern University"
   Links: "[{{< fa link >}}](https://artur-baranov.github.io/nu-ps405-ds)"
-  type: "current"
-  
-- title: 'Math Camp'
-  Status: '<button type="button" class="btn btn-grey btn-sm">{{< fa calendar-days >}}</button>'
-  date: 2024-08-01
-  Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
-  Term: "2024 Summer"
-  Institution: "Northwestern University"
-  Links: "[{{< fa link >}}](https://gustavodiaz.org/NUmathcamp)"
   type: "current"
