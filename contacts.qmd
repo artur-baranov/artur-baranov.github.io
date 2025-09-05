@@ -1,6 +1,8 @@
 ---
 title: "Contacts"
-format: html
+format: 
+  html:
+    page-layout: article
 ---
 
 I am always available for discussions, so feel free to reach out to me via:
@@ -11,15 +13,6 @@ I am always available for discussions, so feel free to reach out to me via:
 <div class="btn-group-vertical">
   <a class="btn btn-outline-primary" href="https://www.linkedin.com/in/aa-baranov/" target="_blank">{{< fa brands linkedin >}} LinkedIn</a>
   <a class="btn btn-outline-primary" href="https://github.com/artur-baranov" target="_blank">{{< fa brands github >}} GitHub</a>
-  <a class="btn btn-outline-primary" href="https://twitter.com/aa_baranov/" target="_blank">{{< fa brands twitter >}} Twitter</a>
+  <a class="btn btn-outline-primary" href="https://calendly.com/artur-baranov/" target="_blank"> <i class="fa-solid fa-calendar-days"></i> Office Hours</a>
 </div>
 </center>
-
-<br>
-Alternatively, you can schedule a meeting with me:
-```{=html}
-<!-- Calendly inline widget begin -->
-<div class="calendly-inline-widget" data-url="https://calendly.com/artur-baranov/" style="min-width:320px;height:700px;"></div>
-<script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js" async></script>
-<!-- Calendly inline widget end -->
-```
