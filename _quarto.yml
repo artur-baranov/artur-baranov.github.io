@@ -36,7 +36,6 @@ format:
   html:
     theme:
       light: [flatly, custom.scss]
-      dark: [darkly, custom.scss]
     mainfont: roboto
     css: styles.css
     toc: true
