@@ -19,9 +19,6 @@ about:
     - icon: github
       text: GitHub
       href: "https://github.com/artur-baranov/"
-    - icon: twitter
-      text: Twitter
-      href: "https://twitter.com/aa_baranov/"
     - icon: at
       text: e-mail
       href: "mailto:artur.baranov@u.northwestern.edu"

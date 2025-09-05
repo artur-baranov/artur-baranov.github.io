@@ -26,7 +26,7 @@ Key functionality:
     -   Users can download the customized plots and filtered datasets for further analysis or reporting
     -   Supported download formats include PNG, PDF, CSV, and Excel, allowing flexibility in exporting results
 
-<center><a class="btn btn-primary" href="https://irishpoliticsdata.shinyapps.io/demographicpolling/" target="_blank">Explore Irish Demographic Polling Dashboard</a></center>
+<center><a class="btn btn-outline-primary" href="https://irishpoliticsdata.shinyapps.io/demographicpolling/" target="_blank">Explore Irish Demographic Polling Dashboard</a></center>
 :::
 <br>
 <center>[![](images/irish-dem-poll-ui.png){width="300"} ![](images/irish-dem-poll.png){width="300"}](https://irishpoliticsdata.shinyapps.io/demographicpolling/){target="_blank"}</center>

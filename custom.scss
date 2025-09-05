@@ -5,3 +5,100 @@
 // Variables
 // --------------------------------------------------
 
+/* Starting below, the code is not mine */
+
+/* ================================
+   Minimal Quarto Theme
+   custom.scss
+   ================================ */
+
+/* Core variables */
+$primary: #333333;
+$secondary: #666666;
+$light: #f9f9f9;
+$white: #ffffff;
+
+/* Body */
+$body-bg: $white;
+$body-color: $primary;
+$font-family-sans-serif: 'Inter', sans-serif;
+
+/* Links */
+$link-color: $primary;
+$link-hover-color: darken($primary, 10%);
+
+/* Headings */
+$headings-color: $primary;
+$headings-font-weight: 600;
+
+/* Navbar */
+$navbar-bg: $white;
+$navbar-fg: $primary;
+$navbar-hover-color: $secondary;
+$navbar-border-color: $light;
+
+/* Footer */
+$footer-bg: $light;
+$footer-fg: $secondary;
+
+/* Code blocks */
+$code-block-bg: $light;
+$code-color: $primary;
+
+/* Tables */
+table {
+  border: none;
+  th {
+    background-color: $light;
+    color: $primary;
+    font-weight: 600;
+  }
+  td {
+    border-top: 1px solid $light;
+  }
+}
+
+/* Cards */
+.card {
+  border: 1px solid $light;
+  border-radius: 0.5rem;
+  box-shadow: none;
+}
+
+/* ================================
+   Buttons
+   ================================ */
+
+.btn {
+  border-radius: 9999px; /* pill-shaped */
+  padding: 0.45rem 1.25rem;
+  font-weight: 500;
+  font-size: 0.95rem;
+  transition: all 0.2s ease;
+}
+
+/* Solid button */
+.btn-primary {
+  background-color: $primary;
+  border: none;
+  color: $white;
+
+  &:hover,
+  &:focus {
+    background-color: darken($primary, 10%);
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+}
+
+/* Outline button */
+.btn-outline-primary {
+  background-color: transparent;
+  border: 2px solid $primary;
+  color: $primary;
+
+  &:hover,
+  &:focus {
+    background-color: $primary;
+    color: $white;
+  }
+}

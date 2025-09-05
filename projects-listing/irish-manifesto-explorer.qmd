@@ -15,7 +15,7 @@ In this project, I contributed to an interactive Shiny Dashboard to explore and 
 
 The Manifesto Explorer Dashboard offers a comprehensive view of party manifestos for local and European Parliament elections in Ireland since 1999. Users can delve into the manifestos, compare different parties, and observe changes over time. By clicking on a party manifesto title, you can read the full document. The dashboard also features a search function to look up specific terms and examine their frequency and context within the manifestos.
 
-<center><a class="btn btn-primary" href="https://irishpoliticsdata.shinyapps.io/manifestoexplorer/" target="_blank">Explore Irish Manifesto Explorer Dashboard</a></center>
+<center><a class="btn btn-outline-primary" href="https://irishpoliticsdata.shinyapps.io/manifestoexplorer/" target="_blank">Explore Irish Manifesto Explorer Dashboard</a></center>
 :::
 <br>
 <center>![](images/irish-manifesto-explorer.png){width="600"}</center>
