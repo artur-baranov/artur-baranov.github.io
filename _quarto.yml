@@ -21,7 +21,7 @@ website:
       - href: CV_abaranov.pdf
         text: "{{< fa file >}} CV"
       - href: contacts.qmd
-        text: "{{< fa address-book >}} Contacts"
+        text: "{{< fa address-book >}} Contact"
       - href: teaching.qmd
         text: "{{< fa file-pen >}} Teaching"
     right:

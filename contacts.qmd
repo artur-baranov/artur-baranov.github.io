@@ -1,5 +1,5 @@
 ---
-title: "Contacts"
+title: "Contact"
 format: 
   html:
     page-layout: article
