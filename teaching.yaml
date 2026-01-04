@@ -1,5 +1,5 @@
 - title: 'Probability and Statistics'
-  Status: '<button type="button" class="btn btn-green btn-sm">{{< fa calendar-days >}}</button>'
+  Status: '<button type="button" class="btn btn-grey btn-sm">{{< fa calendar-days >}}</button>'
   date: 2025-09-01
   Level: '<button type="button" class="btn btn-primary btn-sm"><b>G</b></button>'
   Term: '2025 Fall <i class="fa-solid fa-clock-rotate-left text-muted" data-bs-toggle="tooltip" style="float:right;" title="Previously, Fall 2024"></i>'
