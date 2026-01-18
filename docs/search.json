@@ -124,5 +124,12 @@
     "title": "Teaching",
     "section": "",
     "text": "Title\n\n\nTerm\n\n\nLevel\n\n\nLinks\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "install-R.html",
+    "href": "install-R.html",
+    "title": "Installing R and RStudio",
+    "section": "",
+    "text": "Installing R and RStudio\nFirst, we need to install R. Click the button below and click “Download and Install R”. Choose your OS. For Windows you need to download “base”; for MacOS and Linux you have to choose the version of your OS. Install.\n\nDownload R\n\n\n\nStep one\n\n\n\n\nFor windows:\n\n\n\n\nSecond, we need to install RStudio. Click the button below and click “Download RStudio Desktop”. You will be redirected to your version automatically. Install.\n\nDownload RStudio\n\n\n\nStep two"
   }
 ]
