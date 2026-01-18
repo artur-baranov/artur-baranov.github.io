@@ -1,11 +1,12 @@
 ---
+pagetitle: "{{< meta title >}}"
+title-prefix: "{{< meta title >}}"
+title: "Installing R and RStudio "
 format: 
   html:
     embed-resources: true
 toc: false
 ---
-
-# Installing R and RStudio 
 
 **First**, we need to install R. Click the button below and click "Download and Install R". Choose your OS. For Windows you need to download "**base**"; for MacOS and Linux you have to choose the version of your OS. Install.
   
