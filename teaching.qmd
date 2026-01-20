@@ -13,18 +13,24 @@ listing:
     filter-ui: false
     sort: "date desc"
     sort-ui: false
-  # - id: previous
-  #   include: 
-  #     type: "previous"
-  #   contents: teaching.yaml
-  #   type: table
-  #   fields: [title, Term, Institution, Links]
-  #   filter-ui: false
-  #   sort: "date desc"
-  #   sort-ui: false
+  - id: extra
+    include:
+      type: "extra"
+    contents: extra.yaml
+    type: table
+    fields: [title, Date, Institution, Links]
+    filter-ui: false
+    sort: "date desc"
+    sort-ui: false
 toc: false    
 ---
+
+# Teaching Assistant
 
 :::{#current}
 :::
 
+# Workshop Instructor
+
+:::{#extra}
+:::
