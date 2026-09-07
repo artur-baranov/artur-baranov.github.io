@@ -4,14 +4,14 @@
     "href": "index.html",
     "title": "Artur Baranov",
     "section": "",
-    "text": "I am a PhD Candidate at the Department of Political Science, Northwestern University. My field is Comparative Politics, with a focus on Comparative Authoritarianism. My research toolkit includes quantitative and data science methods.\nIn my research, I study how authoritarian states evolve – how they adapt to challenges, maintain control, and transform their institutions. To study such closed political systems, I extensively rely on quantitative text analysis techniques.\nPrior to joining Northwestern, I studied Political Science at University College Dublin in Ireland, Tor Vergata University of Rome in Italy, and the Higher School of Economics in Russia. Previously, I worked at the Accounts Chamber of the Russian Federation as a transparency auditor.\n\nCurriculum vitae\n\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     e-mail"
+    "text": "Artur Baranov is a PhD Candidate in the Department of Political Science at Northwestern University. His research sits at the intersection of authoritarian studies and legislative politics, examining how legislative institutions contribute to the stability of authoritarian regimes and how these institutions adapt to the evolving challenges such regimes face. His work draws on quantitative and data science methods, with a regional specialization in the post-Soviet space and Eastern Europe.\nPrior to joining Northwestern, I studied Political Science at University College Dublin in Ireland, Tor Vergata University of Rome in Italy, and the Higher School of Economics in Russia. Previously, I worked at the Accounts Chamber of the Russian Federation as a transparency auditor.\n\nCurriculum vitae\n\n \n  \n   \n  \n    \n     LinkedIn\n  \n  \n    \n     GitHub\n  \n  \n    \n     e-mail\n  \n\n\n\n\n\n\n\n\n\n\nUpcoming Events\n\n\n\n\n\nConnected_Politics Lab\n\n\n\n\n\nNov 11\n\n\nDublin, Ireland\n\n\n\n\n\n\n\nSPSA Annual Meeting\n\n\n\n\n\nJan 13\n\n\nSt Pete, FL\n\n\n\n\n\n\n\nMPSA Annual Meeting\n\n\n\n\n\nApr 1\n\n\nChicago, IL\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Irish Demographic Poll Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrish Manifesto Explorer Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Irish Demographic Poll Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nIrish Manifesto Explorer Dashboard\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects-listing/irish-dem-poll.html",
@@ -116,7 +116,7 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "Teaching Assistant\n\n\n\n\n\nStatus\n\n\nClass\n\n\nLast Offered\n\n\nLevel\n\n\nLinks\n\n\n\n\n\n\n\n\n\nProbability and Statistics\n\n\n2025 Fall \n\n\nG\n\n\n\n\n\n\n\n\n\n\nMath Camp\n\n\n2025 Summer \n\n\nG\n\n\n\n\n\n\n\n\n\n\nStatistical Research Methods\n\n\n2025 Spring\n\n\nUG\n\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\n2025 Winter\n\n\nG\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\n\nWorkshop Instructor\n\n\n\n\n\nTitle\n\n\nDate\n\n\nInstitution\n\n\nLinks\n\n\n\n\n\n\nHands-On Methods for Text-as-Data Research\n\n\nJanuary 2026\n\n\nNorthwestern University\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Teaching Assistant\n\n\n\n\n\n\nStatus\n\n\n\nClass\n\n\n\nLast Offered\n\n\n\nLevel\n\n\n\nLinks\n\n\n\n\n\n\n\n\n\n\n\nMath Camp\n\n\n2026 Summer \n\n\nG\n\n\n\n\n\n\n\n\n\n\n\n\nProbability and Statistics\n\n\n2025 Fall \n\n\nG\n\n\n\n\n\n\n\n\n\n\n\n\nStatistical Research Methods\n\n\n2025 Spring\n\n\nUG\n\n\n\n\n\n\n\n\n\n\n\n\nLinear Models\n\n\n2025 Winter\n\n\nG\n\n\n\n\n\n\n\n\n\nNo matching items\n\n\n\nWorkshop Instructor\n\n\n\n\n\n\nTitle\n\n\n\nDate\n\n\n\nInstitution\n\n\n\nLinks\n\n\n\n\n\n\n\n\nHands-On Methods for Text-as-Data Research\n\n\nJanuary 2026\n\n\nNorthwestern University\n\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching.html#current",
@@ -131,5 +131,12 @@
     "title": "Installing R and RStudio",
     "section": "",
     "text": "First, we need to install R. Click the button below and click “Download and Install R”. Choose your OS. For Windows you need to download “base”; for MacOS and Linux you have to choose the version of your OS. Install.\n\nDownload R\n\n\n\nStep one\n\n\n\n\nFor windows:\n\n\n\n\nSecond, we need to install RStudio. Click the button below and click “Download RStudio Desktop”. You will be redirected to your version automatically. Install.\n\nDownload RStudio\n\n\n\nStep two"
+  },
+  {
+    "objectID": "index.html#upcoming-events",
+    "href": "index.html#upcoming-events",
+    "title": "Artur Baranov",
+    "section": "Upcoming Events",
+    "text": "Upcoming Events\n\n\n   \n    \n    \n      Order By\n      Default\n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n      \n        Title\n      \n      \n        Location\n      \n    \n  \n\n\n\n\n\n\nDate\n\n\n\nTitle\n\n\n\nLocation\n\n\n\n\n\n\n\n\nNov 11\n\n\nConnected_Politics Lab Talk at UCD\n\n\nDublin, Ireland\n\n\n\n\n\n\nMar 22\n\n\nSPSA Annual Meeting\n\n\nSt Pete, FL\n\n\n\n\n\n\nNo matching items"
   }
 ]

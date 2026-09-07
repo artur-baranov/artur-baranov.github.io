@@ -22,14 +22,33 @@ about:
     - icon: at
       text: e-mail
       href: "mailto:artur.baranov@u.northwestern.edu"
+listing:
+  id: upcoming-events
+  contents: events.yaml
+  type: default
+  fields: [date, title, location]
+  field-display-names:
+    location: "Location"
+  field-links: []
+  date-format: "MMM D"
+  sort: "date asc"
+  filter-ui: false
+  sort-ui: false
+toc: false
 ---
 
 ::: {#postcard style="text-align: justify;"}
-I am a PhD Candidate at the Department of Political Science, Northwestern University. My field is Comparative Politics, with a focus on Comparative Authoritarianism. My research toolkit includes quantitative and data science methods.
-
-In my research, I study how authoritarian states evolve -- how they adapt to challenges, maintain control, and transform their institutions. To study such closed political systems, I extensively rely on quantitative text analysis techniques.
+Artur Baranov is a PhD Candidate in the Department of Political Science at Northwestern University. His research sits at the intersection of authoritarian studies and legislative politics, examining how legislative institutions contribute to the stability of authoritarian regimes and how these institutions adapt to the evolving challenges such regimes face. His work draws on quantitative and data science methods, with a regional specialization in the post-Soviet space and Eastern Europe.
 
 Prior to joining Northwestern,  I studied Political Science at University College Dublin in Ireland, Tor Vergata University of Rome in Italy, and the Higher School of Economics in Russia. Previously, I worked at the Accounts Chamber of the Russian Federation as a transparency auditor.
 
 <center><a class="btn btn-primary" href="CV_abaranov.pdf">Curriculum vitae</a></center>
+:::
+
+::: {.column-margin}
+### Upcoming Events
+
+::: {#upcoming-events}
+:::
+
 :::
