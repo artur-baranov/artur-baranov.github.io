@@ -1,5 +1,5 @@
 ---
-title: "Projects"
+title: "Research Agenda"
 format: 
   html:
     page-layout: article
@@ -11,9 +11,16 @@ listing:
     categories: false
     sort-ui: false
     filter-ui: false
-    max-description-length: 100
+    fields: [title, image, date]
+    max-description-length: 0
+toc: false
 ---
 
+{{< include _research-agenda.qmd >}}
+
+# Consulting and Projects
+
+I am a data consultant, advising faculty and graduate students on research design, measurement, and quantitative methods, particularly projects involving text and network data. A selection of projects is below.
 
 ::: {#projects-main}
 :::
