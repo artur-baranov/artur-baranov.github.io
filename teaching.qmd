@@ -25,6 +25,8 @@ listing:
 toc: false    
 ---
 
+{{< include _teaching-agenda.qmd >}}
+
 # Teaching Assistant
 
 :::{#current}

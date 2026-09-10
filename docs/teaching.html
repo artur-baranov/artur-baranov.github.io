@@ -247,6 +247,126 @@ window.Quarto = {
 </header>
 
 
+<div class="triptych">
+
+  <div class="tcard reveal">
+    <div class="tmark">
+      <svg viewbox="0 0 200 110" aria-hidden="true">
+        <line x1="100" y1="16" x2="100" y2="104" stroke="#a8a6a1" stroke-width="1.5" stroke-dasharray="4 4"></line>
+        <line x1="108" y1="28" x2="156" y2="28" stroke="#a8a6a1" stroke-width="2" stroke-linecap="round">
+          <animate attributename="x1" values="108;120;120;108" dur="3.8s" repeatcount="indefinite"></animate>
+          <animate attributename="x2" values="156;144;144;156" dur="3.8s" repeatcount="indefinite"></animate>
+        </line>
+        <circle cx="132" cy="28" r="4.5" fill="#1c1c1a"></circle>
+        <line x1="52" y1="50" x2="104" y2="50" stroke="#a8a6a1" stroke-width="2" stroke-linecap="round">
+          <animate attributename="x1" values="52;64;64;52" dur="3.8s" repeatcount="indefinite"></animate>
+          <animate attributename="x2" values="104;92;92;104" dur="3.8s" repeatcount="indefinite"></animate>
+        </line>
+        <circle cx="78" cy="50" r="4.5" fill="#1c1c1a"></circle>
+        <line x1="118" y1="72" x2="162" y2="72" stroke="#a8a6a1" stroke-width="2" stroke-linecap="round">
+          <animate attributename="x1" values="118;128;128;118" dur="3.8s" repeatcount="indefinite"></animate>
+          <animate attributename="x2" values="162;152;152;162" dur="3.8s" repeatcount="indefinite"></animate>
+        </line>
+        <circle cx="140" cy="72" r="4.5" fill="#1c1c1a"></circle>
+        <line x1="62" y1="94" x2="114" y2="94" stroke="#a8a6a1" stroke-width="2" stroke-linecap="round">
+          <animate attributename="x1" values="62;74;74;62" dur="3.8s" repeatcount="indefinite"></animate>
+          <animate attributename="x2" values="114;102;102;114" dur="3.8s" repeatcount="indefinite"></animate>
+        </line>
+        <circle cx="88" cy="94" r="4.5" fill="#1c1c1a"></circle>
+      </svg>
+    </div>
+    <div class="tbody">
+      <h3 class="anchored">Quantitative and Computational Methods</h3>
+      <p>
+I have taught quantitative methods at the graduate and undergraduate level: probability and statistics, linear models, causal inference, and text as data. My aim is to get students to where they can read a model critically: what it assumes, what it can identify, and where it breaks.
+      </p>
+    </div>
+  </div>
+
+</div>
+
+<style>
+.triptych {
+  --tp-head: #1c1c1a;
+  --tp-body: #5c5b57;
+  --tp-rule: #e2e0da;
+  max-width: 760px;
+  margin: 3rem auto;
+  padding: 0 1rem;
+  font-family: Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.tcard {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+  padding: 1.9rem 0;
+  border-top: 1px solid var(--tp-rule);
+}
+.tcard:last-child { border-bottom: 1px solid var(--tp-rule); }
+.tmark {
+  flex: 0 0 168px;
+}
+.tmark svg {
+  display: block;
+  width: 168px;
+  height: auto;
+}
+.tbody { flex: 1; }
+.tcard h3 {
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: 700;
+  line-height: 1.4;
+  letter-spacing: .002em;
+  color: var(--tp-head);
+  margin: 0 0 .55rem;
+}
+.tcard p {
+  font-family: inherit;
+  font-size: .875rem;
+  font-weight: 400;
+  line-height: 1.65;
+  color: var(--tp-body);
+  margin: 0;
+}
+.reveal {
+  opacity: 0;
+  transform: translateY(14px);
+  transition: opacity .75s ease, transform .75s ease;
+}
+.reveal.visible { opacity: 1; transform: none; }
+.tcard:nth-child(2).reveal { transition-delay: .1s; }
+.tcard:nth-child(3).reveal { transition-delay: .2s; }
+@media (max-width: 620px) {
+  .tcard { flex-direction: column; align-items: flex-start; gap: 1rem; }
+  .tmark { flex: none; }
+  .tmark svg { width: 150px; }
+}
+@media (prefers-reduced-motion: reduce) {
+  .reveal { opacity: 1; transform: none; transition: none; }
+  .triptych svg animate { display: none; }
+}
+</style>
+
+<script>
+(function () {
+  var cards = document.querySelectorAll('.triptych .reveal');
+  if (!('IntersectionObserver' in window) ||
+      window.matchMedia('(prefers-reduced-motion: reduce)').matches) {
+    cards.forEach(function (c) { c.classList.add('visible'); });
+    return;
+  }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.2 });
+  cards.forEach(function (c) { io.observe(c); });
+})();
+</script>
 <section id="teaching-assistant" class="level1">
 <h1>Teaching Assistant</h1>
 <div id="listing-current" class="quarto-listing quarto-listing-container-table">
