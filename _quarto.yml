@@ -5,6 +5,8 @@ project:
     - "*.qmd"
     - "!docs/data/*.qmd"
     - "!data/*.qmd"
+  resources:
+    - "data/**"
 
 website:
   title: "<b>Artur Baranov</b>"
